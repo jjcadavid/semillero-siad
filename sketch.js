@@ -29,7 +29,7 @@ function setup() {
 function draw() {
   //background(110);
   cuadro.show();
-  fill(0,1);
+  fill(0,5);
   rectMode(CORNER);
   rect(0,0,width,height);
   puntero.show();
